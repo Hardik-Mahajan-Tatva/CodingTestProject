@@ -2979,6 +2979,7 @@
     "net7.0": [
       "Microsoft.AspNetCore.Mvc.ViewFeatures >= 2.3.0",
       "Microsoft.EntityFrameworkCore >= 7.0.0",
+      "Microsoft.EntityFrameworkCore.Design >= 7.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.0",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 7.0.0"
     ]
@@ -2989,11 +2990,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\CodingTestProject\\CodingTestProject\\CoddingAssessmentProject.Repositories\\CoddingAssessmentProject.Repositories.csproj",
+      "projectUniqueName": "D:\\CodingTestProject\\CodingTestProject\\CoddingAssessmentProject.Repositories\\CoddingAssessmentProject.Repositories.csproj",
       "projectName": "CoddingAssessmentProject.Repositories",
-      "projectPath": "d:\\CodingTestProject\\CodingTestProject\\CoddingAssessmentProject.Repositories\\CoddingAssessmentProject.Repositories.csproj",
+      "projectPath": "D:\\CodingTestProject\\CodingTestProject\\CoddingAssessmentProject.Repositories\\CoddingAssessmentProject.Repositories.csproj",
       "packagesPath": "C:\\Users\\pct62\\.nuget\\packages\\",
-      "outputPath": "d:\\CodingTestProject\\CodingTestProject\\CoddingAssessmentProject.Repositories\\obj\\",
+      "outputPath": "D:\\CodingTestProject\\CodingTestProject\\CoddingAssessmentProject.Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pct62\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3025,6 +3026,12 @@
             "version": "[2.3.0, )"
           },
           "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[7.0.0, )"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
             "target": "Package",
             "version": "[7.0.0, )"
           },

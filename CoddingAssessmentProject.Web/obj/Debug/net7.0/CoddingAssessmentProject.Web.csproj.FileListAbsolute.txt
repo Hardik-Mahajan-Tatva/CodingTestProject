@@ -7,7 +7,6 @@ D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Web\bin\Debug\ne
 D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Web\bin\Debug\net7.0\CoddingAssessmentProject.Web.dll
 D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Web\bin\Debug\net7.0\CoddingAssessmentProject.Web.pdb
 D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Web\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
-D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Web\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
 D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
 D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
@@ -64,3 +63,7 @@ D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Web\obj\Debug\ne
 D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Web\obj\Debug\net7.0\CoddingAssessmentProject.Web.pdb
 D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Web\obj\Debug\net7.0\CoddingAssessmentProject.Web.genruntimeconfig.cache
 D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Web\obj\Debug\net7.0\ref\CoddingAssessmentProject.Web.dll
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Web\bin\Debug\net7.0\Humanizer.dll
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Web\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Web\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Web\bin\Debug\net7.0\System.CodeDom.dll
