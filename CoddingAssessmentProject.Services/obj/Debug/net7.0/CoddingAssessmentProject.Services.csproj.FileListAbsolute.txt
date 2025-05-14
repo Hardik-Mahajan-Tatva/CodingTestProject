@@ -1,0 +1,15 @@
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Services\bin\Debug\net7.0\CoddingAssessmentProject.Services.deps.json
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Services\bin\Debug\net7.0\CoddingAssessmentProject.Services.dll
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Services\bin\Debug\net7.0\CoddingAssessmentProject.Services.pdb
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Services\bin\Debug\net7.0\CoddingAssessmentProject.Repositories.dll
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Services\bin\Debug\net7.0\CoddingAssessmentProject.Repositories.pdb
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Services\obj\Debug\net7.0\CoddingAssessmentProject.Services.csproj.AssemblyReference.cache
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Services\obj\Debug\net7.0\CoddingAssessmentProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Services\obj\Debug\net7.0\CoddingAssessmentProject.Services.AssemblyInfoInputs.cache
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Services\obj\Debug\net7.0\CoddingAssessmentProject.Services.AssemblyInfo.cs
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Services\obj\Debug\net7.0\CoddingAssessmentProject.Services.csproj.CoreCompileInputs.cache
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Services\obj\Debug\net7.0\CoddingAssessmentProject.Services.csproj.CopyComplete
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Services\obj\Debug\net7.0\CoddingAssessmentProject.Services.dll
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Services\obj\Debug\net7.0\refint\CoddingAssessmentProject.Services.dll
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Services\obj\Debug\net7.0\CoddingAssessmentProject.Services.pdb
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Services\obj\Debug\net7.0\ref\CoddingAssessmentProject.Services.dll

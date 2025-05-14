@@ -1,0 +1,14 @@
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Repositories\bin\Debug\net7.0\CoddingAssessmentProject.Repositories.deps.json
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Repositories\bin\Debug\net7.0\CoddingAssessmentProject.Repositories.runtimeconfig.json
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Repositories\bin\Debug\net7.0\CoddingAssessmentProject.Repositories.dll
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Repositories\bin\Debug\net7.0\CoddingAssessmentProject.Repositories.pdb
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Repositories\obj\Debug\net7.0\CoddingAssessmentProject.Repositories.csproj.AssemblyReference.cache
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Repositories\obj\Debug\net7.0\CoddingAssessmentProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Repositories\obj\Debug\net7.0\CoddingAssessmentProject.Repositories.AssemblyInfoInputs.cache
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Repositories\obj\Debug\net7.0\CoddingAssessmentProject.Repositories.AssemblyInfo.cs
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Repositories\obj\Debug\net7.0\CoddingAssessmentProject.Repositories.csproj.CoreCompileInputs.cache
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Repositories\obj\Debug\net7.0\CoddingAssessmentProject.Repositories.dll
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Repositories\obj\Debug\net7.0\refint\CoddingAssessmentProject.Repositories.dll
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Repositories\obj\Debug\net7.0\CoddingAssessmentProject.Repositories.pdb
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Repositories\obj\Debug\net7.0\CoddingAssessmentProject.Repositories.genruntimeconfig.cache
+D:\CodingTestProject\CodingTestProject\CoddingAssessmentProject.Repositories\obj\Debug\net7.0\ref\CoddingAssessmentProject.Repositories.dll
