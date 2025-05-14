@@ -5,7 +5,9 @@ using CoddingAssessmentProject.Repositories.Intefaces;
 using CoddingAssessmentProject.Repositories.Models;
 using CoddingAssessmentProject.Services.Implmentations;
 using CoddingAssessmentProject.Services.Intefaces;
+using CoddingAssessmentProject.Web.Middlewares;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 
@@ -67,6 +69,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+app.UseMiddleware<JwtTokenMiddleware>();
 
 app.UseAuthentication();
 app.UseAuthorization();
