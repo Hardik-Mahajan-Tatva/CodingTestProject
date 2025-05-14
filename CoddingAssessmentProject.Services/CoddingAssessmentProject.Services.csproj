@@ -2,6 +2,9 @@
   <ItemGroup>
     <ProjectReference Include="..\CoddingAssessmentProject.Repositories\CoddingAssessmentProject.Repositories.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.0" />
+  </ItemGroup>
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>

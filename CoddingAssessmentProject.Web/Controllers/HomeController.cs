@@ -1,6 +1,9 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using CoddingAssessmentProject.Web.Models;
+using Microsoft.AspNetCore.Authorization;
+using CoddingAssessmentProject.Services.Attributes;
+using Microsoft.AspNetCore.Identity;
 
 namespace CoddingAssessmentProject.Web.Controllers;
 
@@ -17,7 +20,7 @@ public class HomeController : Controller
     {
         return View();
     }
-
+    [Authorize(Roles = "User")]
     public IActionResult Privacy()
     {
         return View();
